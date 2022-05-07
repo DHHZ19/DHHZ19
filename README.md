@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **JavaScript and all things Progamming**
 
-- 👨‍💻 All of my projects are available at [https://diegosporfolio.netlify.app/](https://diegosporfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://diegoscode.netlify.app/](https://diegocode.netlify.app/)
 
 - 📫 How to reach me **diegohern777@gmail.com**
 
