@@ -9,7 +9,7 @@ I am a passionate Full-Stack Software Engineer. I love creating great web soluti
 * 🌍  I'm based in Minneapolis, MN
 * 🖥️  See my portfolio at [DiegoCodes](http://diegocode.netlify.app/)
 * ✉️  You can contact me at [diegohern777@gmail.com](mailto:diegohern777@gmail.com)
-* 🚀  I'm currently working on [Mirala-Boutique (E-Commerce)](http://dhhz19.github.io/GabbysE-commerce/moren-html/index.html)
+* 🚀  I'm currently working on [Virtue Construction ](http://dhhz19.github.io/virtueConstruction/index.html)
 * 🧠  I'm learning Node.js, Next.js
 
 <a href="https://www.twitch.tv/dhhzz" target="_blank" rel="noreferrer"><img
