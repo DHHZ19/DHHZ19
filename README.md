@@ -10,7 +10,7 @@ I am a passionate Full-Stack Software Engineer. I love creating great web soluti
 * 🖥️  See my portfolio at [DiegoCodes](http://diegocode.netlify.app/)
 * ✉️  You can contact me at [diegohern777@gmail.com](mailto:diegohern777@gmail.com)
 * 🚀  I'm currently working on [Virtue Construction ](http://dhhz19.github.io/virtueConstruction/index.html)
-* 🧠  I'm learning Node.js, React.js
+* 🧠  I'm learning Next.js
 
 <a href="https://www.twitch.tv/dhhzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/dhhzz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
