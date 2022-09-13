@@ -77,7 +77,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [How to understand Insertion Sort for beginners in JS](https://diegocode.hashnode.dev/how-to-understand-insertion-sort-for-beginners-in-js)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
