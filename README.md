@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Diego Frontend Developer with Full Stack experience @Outsell</div>  
+### <div align="center">👋🏽 I'm Diego Frontend Developer with Full Stack experience @Outsell</div>  
   
 
 - 🔭 I’m currently working onbordaing
