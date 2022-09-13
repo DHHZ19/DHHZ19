@@ -6,7 +6,7 @@
 ### <div align="center">I'm Diego Frontend Developer with Full Stack experience @Outsell</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working onbordaing
   
 
 - 🌱 I’m currently learning Next.js  
