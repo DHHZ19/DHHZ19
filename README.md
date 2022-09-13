@@ -64,7 +64,3 @@
 
 ## What I'm listening to
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=diegofootball19&cover_image=false&theme=novatorem&bar_color=1c3497&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
