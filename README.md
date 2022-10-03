@@ -21,7 +21,7 @@
 - 🔭 I’m currently working onbordaing
   
 
-- 🌱 I’m currently learning Next.js  
+- 🌱 I’m currently learning C#, .Net Razor 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
