@@ -58,9 +58,4 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to understand Insertion Sort for beginners in JS](https://diegocode.hashnode.dev/how-to-understand-insertion-sort-for-beginners-in-js)
 <!-- BLOG-POST-LIST:END -->  
-
 <br/>  
-<br/>
-
-## What I'm listening to
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=diegofootball19&cover_image=false&theme=novatorem&bar_color=1c3497&bar_color_cover=false" /></div>  
