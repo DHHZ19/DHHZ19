@@ -18,7 +18,7 @@
 </a>  
 </div>  
 
-- 🔭 I’m currently working onbordaing
+- 🔭 I’m currently working nothing 😱, looking for a new project or just working on older projects. TBD.
   
 
 - 🌱 I’m currently learning C#, .Net Razor 
