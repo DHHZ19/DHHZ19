@@ -18,7 +18,7 @@
 </a>  
 </div>  
 
-- 🔭 I’m currently working nothing 😱, looking for a new project or just working on older projects. TBD.
+- 🔭 studying c# and algos / taking college courses
   
 
 - 🌱 I’m currently learning C#, .Net Razor, Sitecore
