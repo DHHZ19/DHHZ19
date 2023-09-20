@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning C#, .Net Razor, Sitecore
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything i need freinds.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
