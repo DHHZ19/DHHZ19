@@ -27,7 +27,7 @@
 - ❓ Ask me about anything i need freinds.
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I enjoy goning on hikes
   
 
 <br/>  
