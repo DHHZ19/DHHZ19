@@ -18,13 +18,13 @@
 </a>  
 </div>  
 
-- 🔭 studying c# and algos / taking college courses
+- 🔭 Working
   
 
 - 🌱 I’m currently learning C#, .Net Razor, Sitecore
   
 
-- ❓ Ask me about anything i need freinds.
+- ❓ Ask me about anything.
   
 
 - ⚡ Fun fact: I enjoy goning on hikes
