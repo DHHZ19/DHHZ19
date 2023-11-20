@@ -21,7 +21,7 @@
 - 🔭 Working
   
 
-- 🌱 I’m currently learning C#, .Net Razor, Sitecore
+- 🌱 I’m currently learning API intergrations with ChatGPT
   
 
 - ❓ Ask me about anything.
