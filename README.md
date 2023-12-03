@@ -50,6 +50,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How Integrate  Instagram media to your Web App Using Facebook API &amp; JS](https://diegocode.hashnode.dev/how-integrate-instagram-media-to-your-web-app-using-facebook-api-js)
 - [How to understand Insertion Sort for beginners in JS](https://diegocode.hashnode.dev/how-to-understand-insertion-sort-for-beginners-in-js)
 <!-- BLOG-POST-LIST:END -->  
 <br/>  
