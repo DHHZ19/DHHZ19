@@ -18,20 +18,15 @@
 </a>  
 </div>  
 
-- 🔭 Working
-  
+- 🔭 Working / Exploring / Studying
 
 - 🌱 I’m currently learning API intergrations with ChatGPT
   
-
-- ❓ Ask me about anything.
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
 - ⚡ Fun fact: I enjoy goning on hikes
   
-
 <br/>  
-
 
 ## Languages and Tools  
 ### Frontend  
