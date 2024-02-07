@@ -81,6 +81,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Host a Static Website With Github Pages](https://diegocode.hashnode.dev/how-to-host-a-static-website-with-github-pages)
 - [What are Hash Tables?](https://diegocode.hashnode.dev/what-are-hash-tables)
 - [ChatGPT CLI with NodeJS](https://diegocode.hashnode.dev/simple-chatgpt-cli-with-nodejs)
 - [How to Integrate  Instagram media to your Web App Using Facebook API &amp; JS](https://diegocode.hashnode.dev/how-integrate-instagram-media-to-your-web-app-using-facebook-api-js)
