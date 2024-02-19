@@ -21,7 +21,7 @@
   
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I enjoy goning on hikes
+- ⚡ Fun fact: I have the same last name twice :)
   
 <br/>  
 
