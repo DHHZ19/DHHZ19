@@ -27,11 +27,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Reddit CLI Built With Golang](https://diegocode.hashnode.dev/reddit-cli-built-with-golang)
 - [How to Host a Static Website With Github Pages](https://diegocode.hashnode.dev/how-to-host-a-static-website-with-github-pages)
 - [What are Hash Tables?](https://diegocode.hashnode.dev/what-are-hash-tables)
 - [ChatGPT CLI with NodeJS](https://diegocode.hashnode.dev/simple-chatgpt-cli-with-nodejs)
 - [How to Integrate  Instagram media to your Web App Using Facebook API &amp; JS](https://diegocode.hashnode.dev/how-integrate-instagram-media-to-your-web-app-using-facebook-api-js)
+- [How to understand Insertion Sort for beginners in JS](https://diegocode.hashnode.dev/how-to-understand-insertion-sort-for-beginners-in-js)
 <!-- BLOG-POST-LIST:END -->  
 <br/>  
 
