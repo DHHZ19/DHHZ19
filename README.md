@@ -15,13 +15,13 @@
 </a>  
 </div>  
 
-- 🔭 Working / Exploring / Studying
+- 🔭 Working API intergrations with ChatGPT / Exploring / Studying
 
-- 🌱 I’m currently learning API intergrations with ChatGPT
+- 🌱 I’m currently experimenting with Golang in the backend rather than NodeJS. 
   
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to software development. 
 
-- ⚡ Fun fact: I have the same last name twice :)
+- ⚡ Fun fact: I have the same last name twice 😝
   
 <br/>  
 
