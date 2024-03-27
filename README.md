@@ -15,7 +15,7 @@
 </a>  
 </div>  
 
-- 🔭 Working on API intergrations with ChatGPT, and emails. 
+- 🔭 Working on API intergrations with ChatGPT. 
 
 - 🌱 I’m currently experimenting with Golang in the backend rather than NodeJS. 
   
