@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently experimenting with Golang in the backend rather than NodeJS. 
   
-- ❓ Ask me about anything related to software development. 
+- ❓ Ask me about anything related to software development or perhaps super-hero movies. 
 
 - ⚡ Fun fact: I have the same last name twice 😝
   
