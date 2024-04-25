@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">👋🏽 I'm Diego Full Stack Developer</div>  
+### <div align="center">👋🏽 I'm Diego Software Engineer</div>  
 <div align="center">
 <a href="https://twitter.com/DiegoCode_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
