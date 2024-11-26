@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+        uses: actions/checkout@v4
+      - name: Pull in hashnode posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://diegocode.hashnode.dev/rss.xml"
