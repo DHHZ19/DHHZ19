@@ -15,4 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://diegohdev.com/rss.xml"
+          max_post_count: 10
+          commit_message: "🔥Update with lastest diegohdev blog post"
           
