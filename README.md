@@ -29,6 +29,8 @@
 - [ChatGPT CLI with NodeJS](https://www.diegohdev.com/blog/chatgpt-cli-with-nodejs/)
 - [How to Integrate  Instagram media to your Web App Using Facebook API &amp; JS](https://www.diegohdev.com/blog/how-to-integrate--instagram-media-to-your-web-app-using-facebook-api--js/)
 - [What are Hash Tables?](https://www.diegohdev.com/blog/what-is-a-hash-map/)
+- [How to Host a Static Website With Github Pages](https://www.diegohdev.com/blog/how-to-host-a-static-website-with-github-pages/)
+- [Understanding Insertion Sort for beginners](https://www.diegohdev.com/blog/beginners-insertion-sort/)
 <!-- BLOG-POST-LIST:END -->  
 <br/>  
 
