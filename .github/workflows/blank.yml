@@ -14,5 +14,5 @@ jobs:
       - name: Pull in hashnode posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://diegocode.hashnode.dev/rss.xml"
+          feed_list: "https://diegohdev.com/rss.xml"
           
