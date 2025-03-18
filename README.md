@@ -33,7 +33,6 @@
 - [Understanding Insertion Sort for beginners](https://www.diegohdev.com/blog/beginners-insertion-sort/)
 <!-- BLOG-POST-LIST:END -->  
 <br/>  
-
 ## Languages and Tools  
 ### Frontend  
 <div align="center">  
