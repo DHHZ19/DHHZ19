@@ -32,7 +32,8 @@
 - [How to Host a Static Website With Github Pages](https://www.diegohdev.com/blog/how-to-host-a-static-website-with-github-pages/)
 - [Understanding Insertion Sort for beginners](https://www.diegohdev.com/blog/beginners-insertion-sort/)
 <!-- BLOG-POST-LIST:END -->  
-<br/>  
+<br/> 
+
 ## Languages and Tools  
 ### Frontend  
 <div align="center">  
